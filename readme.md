@@ -1,4 +1,4 @@
-# Yii2 RSS extension
+# Yii2 Yandex News RSS extension
 
 [Yii2](http://www.yiiframework.com) RSS extension adds RSS-feed to your site
 
